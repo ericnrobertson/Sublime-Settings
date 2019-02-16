@@ -1,0 +1,82 @@
+[
+	{
+		"args":
+		{
+			"characters": "capture"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " program"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " drop"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " newprog"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ram"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "\nprogram"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " newp"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"default": "\t",
+			"exact": false
+		},
+		"command": "insert_best_completion"
+	},
+	{
+		"args":
+		{
+			"characters": "\n\n\n\nend"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	}
+]
