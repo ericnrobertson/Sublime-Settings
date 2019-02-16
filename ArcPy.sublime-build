@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Python27/ArcGIS10.6/python.exe", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
